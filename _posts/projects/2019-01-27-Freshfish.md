@@ -10,7 +10,7 @@ project:
   title: "Fresh Fish"
   type: "Product Development"
   url: ""
-  logo: "/assets/images/projects/aquapineapple/logo.png"
+  logo: "/assets/images/projects/kakaofish.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
