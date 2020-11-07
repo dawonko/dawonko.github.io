@@ -10,7 +10,7 @@ project:
   title: "Burger King"
   type: "Marketing Research"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/himade-logo.jpg"
+  logo: "/assets/images/projects/burgerking-logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
