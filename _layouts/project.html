@@ -36,6 +36,13 @@
 						</li>
 						{% endfor %}
 					</ul>
+					<ul>
+						{% for video in page.videos %}
+						<li>
+							<vid src="{{ video.url | prepend: site.baseurl }}" alt="{{ image.alt }}" />
+						</li>
+						{% endfor %}
+					</ul>
 				</aside>
 			</div>
 		</section>
