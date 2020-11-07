@@ -20,13 +20,25 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/greenpineapple/devices.jpg"
+    url: "/assets/images/projects/tf-1.jpg"
     alt: "Green Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/greenpineapple/desktop.jpg"
+    url: "/assets/images/projects/tf-2.jpg"
     alt: "Green Pineapple website on a desktop device"
   - image:
-    url: "/assets/images/projects/greenpineapple/mobile.jpg"
+    url: "/assets/images/projects/tf-3.jpg"
+    alt: "Green Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/dar-2.jpg"
+    alt: "Green Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/dar-3.jpg"
+    alt: "Green Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/el-1.jpg"
+    alt: "Green Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/el-2.jpg"
     alt: "Green Pineapple website on a mobile device"
 ---
 <p>Defined that the problems are consumers' existing negative perception of the PB Brand and the strictness to the choice of electronics because they don't really trust novice, especially for the electronics, tending to believe the bigger and well-known company.</p><br>Focused on the characteristic brand has common with consumers. Planning IMC, knowledge about retail marketing in display and digital marketing through Instagram were gained. <br><br>Recognition – Experience – Spreading 
