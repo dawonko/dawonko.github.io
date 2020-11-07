@@ -18,6 +18,9 @@ agency:
   url: "https://github.com/arnolds/pineapple"
   year: "2018"
 
+videos:
+ url: "https://www.youtube.com/embed/pEQIwRsR3Oo" 
+ 
 images:
   - image:
     url: "/assets/images/projects/greenpineapple/devices.jpg"
