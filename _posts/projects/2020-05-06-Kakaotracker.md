@@ -30,4 +30,4 @@ images:
     alt: "Yellow Pineapple website on a mobile device"
 ---
 <p>Consumer will trust products more by tracking the process of products getting to the consumer including seafood, and meat from where it was produced. </p>
-<br><br> This is also a project that was suggested for Kakao's future blueprint & service, it got excellent results which was ranked top 0.005% out of 10,000+ participants.</br></br>
+<br><br> This is also a project that was suggested for Kakao's future blueprint & service, it got excellent results which was ranked top 0.005% out of 10,000+ participants.
