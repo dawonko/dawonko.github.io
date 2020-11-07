@@ -4,19 +4,19 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Product, Kakao, development"
 
 project:
-  title: "Yellow Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  title: "Healthy Tracker"
+  type: "Product Development"
+  url: ""
   logo: "/assets/images/projects/yellowpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
-agency:
-  title: "Yellow Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017, 2018"
+COMPANY:
+  title: "Kakao"
+  url: ""
+  year: "2020"
 
 images:
   - image:
@@ -29,4 +29,5 @@ images:
     url: "/assets/images/projects/yellowpineapple/mobile.jpg"
     alt: "Yellow Pineapple website on a mobile device"
 ---
-<p>The pineapple is a herbaceous perennial, which grows to 1.0 to 1.5 m (3.3 to 4.9 ft) tall, although sometimes it can be taller. The plant takes almost three years to reach maturation. It can fruit a total of three times during its lifetime.</p>
+<p>Consumer will trust products more by tracking the process of products getting to the consumer including seafood, and meat from where it was produced. </p>
+<br><br> This is also a project that was suggested for Kakao's future blueprint & service, it got excellent results which was ranked top 0.005% out of 10,000+ participants.</br></br>
