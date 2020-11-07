@@ -1,12 +1,12 @@
 # User config
 author: "Dawon Ko"
-tagline: "Pineapple Certfied Jekyll Theme"
+tagline: "Dawon Ko Homepage"
 description: "Hi! I am Dawon, interested in everything related to Marketing - campains, research, product development. Based in London 🙋 "
 keywords: "Dawon, Marketing, Portfolio"
 email: "dawonkouk@gmail.com"
-linkedin: "https://www.linkedin.com/"
+linkedin: "https://www.linkedin.com/dawon-ko"
 twitter: "https://twitter.com/"
-github: "https://github.com/"
+github: "https://github.com/dawonko/Python-study"
 
 # Site config
 baseurl: ""
