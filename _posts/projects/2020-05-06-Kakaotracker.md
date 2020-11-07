@@ -10,7 +10,7 @@ project:
   title: "Healthy Tracker"
   type: "Product Development"
   url: ""
-  logo: "/assets/images/projects/yellowpineapple/logo.png"
+  logo: "/assets/images/projects/healthytracker-logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 COMPANY:
