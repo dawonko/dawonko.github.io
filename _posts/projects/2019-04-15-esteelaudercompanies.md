@@ -35,10 +35,10 @@ images:
     url: "/assets/images/projects/dar-4.png"
     alt: "Green Pineapple website on a mobile device"
   - image:
-    url: "/assets/images/projects/el-1.jpg"
+    url: "/assets/images/projects/el-4.png"
     alt: "Green Pineapple website on a mobile device"
   - image:
-    url: "/assets/images/projects/el-2.jpg"
+    url: "/assets/images/projects/el-5.png"
     alt: "Green Pineapple website on a mobile device"
 ---
 <p>Defined that the problems are consumers' existing negative perception of the PB Brand and the strictness to the choice of electronics because they don't really trust novice, especially for the electronics, tending to believe the bigger and well-known company.</p><br>Focused on the characteristic brand has common with consumers. Planning IMC, knowledge about retail marketing in display and digital marketing through Instagram were gained. <br><br>Recognition – Experience – Spreading 
