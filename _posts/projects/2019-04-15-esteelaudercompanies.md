@@ -7,7 +7,7 @@ meta:
   keywords: "FMCG, Estee Lauder Group, Beauty, Marketing Campaign"
 
 project:
-  title: "Tom Ford Beauty"
+  title: "Estee Lauder Companies"
   type: "Social Marketing Campaign"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/himade-logo.jpg"
