@@ -7,8 +7,8 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Green Pineapple"
-  type: "Jekyll"
+  title: "Electronics PB brand : Himade"
+  type: "Marketing Campaign"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/greenpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
@@ -29,4 +29,8 @@ images:
     url: "/assets/images/projects/greenpineapple/mobile.jpg"
     alt: "Green Pineapple website on a mobile device"
 ---
-<p>The pineapple is made up of mostly water (86%) and carbohydrates (13%), with almost no fat or protein. It has nutrients, vitamins, and minerals, including copper, potassium, calcium, magnesium, manganese, vitamin C, thiamin, B6, beta-carotene, and folate as well as soluble and insoluble fiber and bromelain.</p>
+<p>Defined that the problems are consumers' existing negative perception of the PB Brand and the strictness to the choice of electronics because they don't really trust novice, especially for the electronics, tending to believe the bigger and well-known company.</p><br>Focused on the characteristic brand has common with consumers. Planning IMC, knowledge about retail marketing in display and digital marketing through Instagram were gained. <br>Recognition – Experience – Spreading 
+<br>TVC  : Made storyboards in 2 versions up to each target
+Outdoor  :  Ad on Bus, Experience Zone at retail store  
+Digital  : Digital Signage at downtown, Facebook Viral 
+
