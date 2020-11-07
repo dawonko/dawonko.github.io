@@ -10,7 +10,7 @@ project:
   title: "Overwatch"
   type: "User Research"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/overwatch-logo.png"
+  logo: "/assets/images/projects/overwatch-logo.jpg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
