@@ -4,10 +4,10 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Fresh Fish, O2O, Product Development"
+  keywords: "Kakao Fish, O2O, Product Development"
 
 project:
-  title: "Fresh Fish"
+  title: "Kakao Fish"
   type: "Product Development"
   url: ""
   logo: "/assets/images/projects/kakaofish.png"
