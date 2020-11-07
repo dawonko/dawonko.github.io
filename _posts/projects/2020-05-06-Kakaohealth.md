@@ -10,7 +10,7 @@ project:
   title: "Healthy Walker"
   type: "Product Development"
   url: ""
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/healthytracker-logo.png"
   tech: ""
 
 agency:
