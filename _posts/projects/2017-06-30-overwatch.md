@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Overwatch"
-  type: "Research"
+  type: "User Research"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/overwatch-logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
