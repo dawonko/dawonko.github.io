@@ -7,16 +7,16 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Red Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  title: "Healthy Walker"
+  type: "Product Development"
+  url: ""
   logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: ""
 
-agency:
-  title: "Red Pineapple Co"
+COMPANY:
+  title: "KAKAO"
   url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+  year: "2020"
 
 images:
   - image:
@@ -29,4 +29,5 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
+<p>It tracks how long you have walked, and manages your whole check-up schedules with a doctor. It could help people who lives in the area rarely have clinics and who is old but do not have anyone to take care of oneself near.</p>
+<br> This project was for suggesting future blueprint & services to expand their business to Kakao, which has $25 billion market cap in South Korea having various platforms such as messenger, fintech, mobility, commerce and games. Kakao has made a coin(Klay) that can be used in their broad platforms using blockchain technology already, so by using coins as a motivation, I suggested Kakao Health & Kakao Track. </br>
