@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/kf-detail.png"
+    url: "/assets/images/projects/kf-details.png"
     alt: "Aqua Pineapple website on tablet, mobile and desktop"
   - image:
     url: "/assets/images/projects/aquapineapple/desktop.jpg"
