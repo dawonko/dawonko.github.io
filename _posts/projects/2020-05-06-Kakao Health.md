@@ -13,7 +13,7 @@ project:
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: ""
 
-COMPANY:
+agency:
   title: "KAKAO"
   url: "https://github.com/arnolds/pineapple"
   year: "2020"
