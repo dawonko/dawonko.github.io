@@ -10,7 +10,7 @@ project:
   title: "Estee Lauder Companies"
   type: "Social Marketing Campaign"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/himade-logo.jpg"
+  logo: "/assets/images/projects/esteelauder-logo.jpg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
