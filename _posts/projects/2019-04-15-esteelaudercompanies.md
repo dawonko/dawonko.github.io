@@ -29,7 +29,7 @@ images:
     url: "/assets/images/projects/tf-3.jpg"
     alt: "Green Pineapple website on a mobile device"
   - image:
-    url: "/assets/images/projects/dar-5.jpg"
+    url: "/assets/images/projects/dar-5.png"
     alt: "Green Pineapple website on a mobile device"
   - image:
     url: "/assets/images/projects/dar-4.png"
