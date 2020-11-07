@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/tf-1.jpg"
+    url: "/assets/images/projects/tf-4.png"
     alt: "Green Pineapple website on tablet, mobile and desktop"
   - image:
     url: "/assets/images/projects/tf-2.jpg"
