@@ -24,12 +24,12 @@ videos:
 images:
   - image:
     url: "/assets/images/projects/burgerking1.jpg"
-    alt: "Green Pineapple website on tablet, mobile and desktop"
+    alt: "The Quattro Cheese"
   - image:
     url: "/assets/images/projects/burgerking2.jpg"
-    alt: "Green Pineapple website on a desktop device"
+    alt: "Red Snow Crab Whopper"
   - image:
     url: "/assets/images/projects/burgerking3.png"
-    alt: "Green Pineapple website on a mobile device"
+    alt: "The Babyshark Family Shrimp Burger"
 ---
 <p>Ad effect research before airing was conducted to figure how powerful the ad is and where to improve when it comes to engaging consumers into the product.</p><br>My role was to design and execute the research, to analyse the large set of data and to writhe a report for further strategies. Especially, The Babyshark Family Shrimp Burger recorded more than 10 million views on YouTube. <br><br>The Quattro Cheese: https://www.youtube.com/watch?v=WdwFn9mjPqI <br>Red Snow Crab Whopper: https://www.youtube.com/watch?v=pCyePydLajI <br> The Babyshark Family Shrimp Burger : https://www.youtube.com/watch?v=NNFilzNC9ps   
