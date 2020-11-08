@@ -8,10 +8,10 @@ meta:
 
 project:
   title: "Estee Lauder Companies"
-  type: "Social Marketing Campaign"
-  url: "https://github.com/arnolds/pineapple"
+  type: "Marketing Campaign"
+  url: "https://www.elcompanies.com/en"
   logo: "/assets/images/projects/esteelauder-logo.jpg"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "Writing marketing trends report, launching campaigns, translation"
 
 agency:
   title: "Ogilvy & Mather"
@@ -21,28 +21,25 @@ agency:
 images:
   - image:
     url: "/assets/images/projects/tf-4.png"
-    alt: "Green Pineapple website on tablet, mobile and desktop"
+    alt: "YouTuber Risabae with Tom Ford Beauty"
   - image:
     url: "/assets/images/projects/tf-2.jpg"
-    alt: "Green Pineapple website on a desktop device"
+    alt: "YouTuber Risabae and Model Jang Yoonju"
   - image:
     url: "/assets/images/projects/tf-3.jpg"
-    alt: "Green Pineapple website on a mobile device"
+    alt: "YouTuber Risabae at Tom Ford Beauty"
   - image:
     url: "/assets/images/projects/dar-5.png"
-    alt: "Green Pineapple website on a mobile device"
+    alt: "Darphin media tie-up with My Mad Beauty3"
   - image:
     url: "/assets/images/projects/dar-4.png"
-    alt: "Green Pineapple website on a mobile device"
+    alt: "Darphin media tie up with My Mad Beauty3-2"
   - image:
     url: "/assets/images/projects/el-4.png"
-    alt: "Green Pineapple website on a mobile device"
+    alt: "YouTuber Hazel with Estee Lauder"
   - image:
     url: "/assets/images/projects/el-5.png"
-    alt: "Green Pineapple website on a mobile device"
+    alt: "YouTuber Hazel went to Estee Lauder Milan Event"
 ---
-<p>Defined that the problems are consumers' existing negative perception of the PB Brand and the strictness to the choice of electronics because they don't really trust novice, especially for the electronics, tending to believe the bigger and well-known company.</p><br>Focused on the characteristic brand has common with consumers. Planning IMC, knowledge about retail marketing in display and digital marketing through Instagram were gained. <br><br>Recognition – Experience – Spreading 
-<br>TVC  : Made storyboards in 2 versions up to each target
-<br>Outdoor  :  Ad on Bus, Experience Zone at retail store  
-Digital  : Digital Signage at downtown, Facebook Viral 
+<p>As an Account Executive Intern, my role was mainly help to launch new campaigns and writing a report about competitor brands' marketing activities including descriptions of newly launched products, digital marketing. social buzzword, and ATL/BTL activities. </p><br>For Tom Ford Beauty, Darphin, Estee Lauder, I listed influencers that matches with the target market and who could bring higher engagement with them. This social campaigns were made through not only YouTube, but media tie-up with <My Mad Beauty 3> and instagram paid ads of other magazines(Vogue, MarieClaire, W Korea, etc) and other influencers. 
 
