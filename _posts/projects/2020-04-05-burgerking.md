@@ -9,13 +9,13 @@ meta:
 project:
   title: "Burger King"
   type: "Marketing Research"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://www.bk.com/"
   logo: "/assets/images/projects/burgerking-logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "Marketing Research, Quantitative & Qualitative Research, Excel, Powerpoint"
 
 agency:
   title: "Kantar"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://www.kantar.com/"
   year: "2018"
 
 videos:
@@ -32,8 +32,4 @@ images:
     url: "/assets/images/projects/burgerking3.png"
     alt: "Green Pineapple website on a mobile device"
 ---
-<p>Defined that the problems are consumers' existing negative perception of the PB Brand and the strictness to the choice of electronics because they don't really trust novice, especially for the electronics, tending to believe the bigger and well-known company.</p><br>Focused on the characteristic brand has common with consumers. Planning IMC, knowledge about retail marketing in display and digital marketing through Instagram were gained. <br><br>Recognition – Experience – Spreading 
-<br>TVC  : Made storyboards in 2 versions up to each target
-<br>Outdoor  :  Ad on Bus, Experience Zone at retail store  
-Digital  : Digital Signage at downtown, Facebook Viral 
-
+<p>Ad effect research before airing was conducted to figure how powerful the ad is and where to improve when it comes to engaging consumers into the product.</p><br>My role was to design and execute the research, to analyse the large set of data and to writhe a report for further strategies. Especially, The Babyshark Family Shrimp Burger recorded more than 10 million views on YouTube. <br><br>The Quattro Cheese: https://www.youtube.com/watch?v=WdwFn9mjPqI <br>Red Snow Crab Whopper: https://www.youtube.com/watch?v=pCyePydLajI <br> The Babyshark Family Shrimp Burger : https://www.youtube.com/watch?v=NNFilzNC9ps   
