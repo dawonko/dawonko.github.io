@@ -14,3 +14,10 @@ highlighter: rouge
 sass:
   sass_dir: assets/scss
   style: compressed
+
+#analytics
+
+analytics:
+  provider: google
+  google:
+    tracking_id : G-2GP5LKVRQX
