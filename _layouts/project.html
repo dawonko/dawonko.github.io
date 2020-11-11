@@ -7,7 +7,7 @@
 	<meta name="description" content="{{ page.content | strip_html | strip_newlines }}">
 	<meta name="keywords" content="{{ page.meta.keywords }}">
 	{% include head.html %}
-	
+	{% include analytics.html %}
 </head>
 <body>
 	{% include header.html %}
@@ -61,6 +61,7 @@
 		</section>
 	</main>
 	{% include footer.html %}
+	{% include analytics.html %}
 	<script src="{{ "/assets/scripts/vendor/jquery-1.12.4.min.js" | prepend: site.baseurl }}"></script>
 	<script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
 	<script src="{{ "/assets/scripts/vendor/sticky-kit.min.js" | prepend: site.baseurl }}"></script>
