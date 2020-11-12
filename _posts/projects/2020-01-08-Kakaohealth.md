@@ -10,7 +10,7 @@ project:
   title: "Kakao Health"
   type: "Product Development"
   url: ""
-  logo: "/assets/images/projects/greenpineapple/kakaohealth-logo.jpg"
+  logo: "/assets/images/projects/greenpineapple/kakaohealth-logo.JPG"
   tech: ""
 
 agency:
@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/greenpineapple/kakaohealth-logo.jpg"
+    url: "/assets/images/projects/greenpineapple/kakaohealth-logo.JPG"
     alt: "kakaohealth 1"
   - image:
     url: "/assets/images/projects/redpineapple/desktop.jpg"
