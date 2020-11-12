@@ -22,12 +22,7 @@ images:
   - image:
     url: "/assets/images/projects/healthytracker-logo.png"
     alt: "Kakao Tracker"
-  - image:
-    url: "/assets/images/projects/yellowpineapple/desktop.jpg"
-    alt: "Yellow Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/yellowpineapple/mobile.jpg"
-    alt: "Yellow Pineapple website on a mobile device"
+  
 ---
 <p>It trakcs the whole record of how a product came to our table. Consumer will trust products more by seeing who harvestd it or caught it, who distributed, or even who delivered the product. Also, this data is encrypted by Blockchain, it is reliable to believe and also it could have another version for B2B, for SCM.</p>
 <br><br> Healthy Tracker whas also submitted together with Healthy Walker to Kakao for one of their pre-assignment to join. This was a part of their future blueprint, and it got excellent result which was racnked top 0.005% out of 10,000+ applicants.
