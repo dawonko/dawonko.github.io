@@ -7,7 +7,7 @@ meta:
   keywords: "Product, Kakao, development"
 
 project:
-  title: "Kakao Tracker"
+  title: "Kakao Track"
   type: "Product Development"
   url: "https://www.kakaocorp.com/?lang=en"
   logo: "/assets/images/projects/healthytracker-logo.png"
