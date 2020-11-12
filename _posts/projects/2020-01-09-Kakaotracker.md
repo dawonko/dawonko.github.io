@@ -13,7 +13,7 @@ project:
   logo: "/assets/images/projects/healthytracker-logo.png"
   tech: "Marketing business model, partnership, user experience, product development"
 
-COMPANY:
+agency:
   title: "Individual Project"
   url: ""
   year: "2020"
