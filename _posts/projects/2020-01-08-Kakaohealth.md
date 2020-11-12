@@ -22,12 +22,6 @@ images:
   - image:
     url: "/assets/images/projects/greenpineapple/Greenkakaohealth.png"
     alt: "kakaohealth 1"
-  - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
-    alt: "Red Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "Red Pineapple website on a mobile device"
 ---
 <p>It tracks how long you have walked, and manages your whole check-up schedules with a doctor. It could help people who lives in the area rarely have clinics and who is old but do not have anyone to take care of oneself near.</p>
 <br>This project was for suggesting future blueprint & services to expand their business to Kakao, which has $25 billion market cap in South Korea having various platforms such as messenger, fintech, mobility, commerce and games. Kakao has made a coin(Klay) that can be used in their broad platforms using blockchain technology already, so by using coins as a motivation, I suggested Kakao Health & Kakao Track.
