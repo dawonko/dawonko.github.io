@@ -29,8 +29,4 @@ images:
     url: "/assets/images/projects/greenpineapple/mobile.jpg"
     alt: "Green Pineapple website on a mobile device"
 ---
-<p>Defined that the problems are consumers' existing negative perception of the PB Brand and the strictness to the choice of electronics because they don't really trust novice, especially for the electronics, tending to believe the bigger and well-known company.</p><br>Focused on the characteristic brand has common with consumers. Planning IMC, knowledge about retail marketing in display and digital marketing through Instagram were gained. <br><br>Recognition – Experience – Spreading 
-<br>TVC  : Made storyboards in 2 versions up to each target
-<br>Outdoor  :  Ad on Bus, Experience Zone at retail store  
-Digital  : Digital Signage at downtown, Facebook Viral 
-
+<p>This project is about the communication between gender conflicts in game <Overwatch>. It was designed to prove the hypothesis regarding communication theory - Spiral of silence. </p><br>Designed the survey and interview questionnaires, and executed EDA to figure which factors are influencing the conflicts. The factors were tier, total played time, total numbers of play, whether reacting aggressively or not when insulted.<br><br> This research was submitted to Korea Game Journal Award and honored to be included in its journal book, 2017.
