@@ -7,7 +7,7 @@ meta:
   keywords: "Product, Kakao, development"
 
 project:
-  title: "Healthy Tracker"
+  title: "Kakao Tracker"
   type: "Product Development"
   url: ""
   logo: "/assets/images/projects/healthytracker-logo.png"
@@ -20,8 +20,8 @@ COMPANY:
 
 images:
   - image:
-    url: "/assets/images/projects/yellowpineapple/devices.jpg"
-    alt: "Yellow Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/healthytracker-logo.png"
+    alt: "Kakao Tracker"
   - image:
     url: "/assets/images/projects/yellowpineapple/desktop.jpg"
     alt: "Yellow Pineapple website on a desktop device"
