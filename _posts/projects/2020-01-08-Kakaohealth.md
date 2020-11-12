@@ -14,7 +14,7 @@ project:
   tech: "Marketing business model, User experience, Product Development, Platform synergy"
 
 agency:
-  title: "Idividual Project"
+  title: "Individual Project"
   url: ""
   year: "2020"
 
