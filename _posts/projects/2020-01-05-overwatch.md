@@ -9,24 +9,30 @@ meta:
 project:
   title: "Overwatch"
   type: "User Research"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://playoverwatch.com/"
   logo: "/assets/images/projects/overwatch-logo.jpg"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "Quantitative Research(Survey), Qualitative Research(Interview), Literature Review, Article Review"
 
 agency:
-  title: "Himart"
-  url: "https://github.com/arnolds/pineapple"
+  title: "Individual Project"
+  url: ""
   year: "2017"
 
 images:
   - image:
-    url: "/assets/images/projects/greenpineapple/devices.jpg"
-    alt: "Green Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/greenpineapple/overwatch-1.png"
+    alt: "Overwatch research-1"
   - image:
-    url: "/assets/images/projects/greenpineapple/desktop.jpg"
-    alt: "Green Pineapple website on a desktop device"
+    url: "/assets/images/projects/greenpineapple/overwatch-2.png"
+    alt: "Overwatch research-2"
   - image:
-    url: "/assets/images/projects/greenpineapple/mobile.jpg"
-    alt: "Green Pineapple website on a mobile device"
+    url: "/assets/images/projects/greenpineapple/overwatch-3.png"
+    alt: "Overwatch research-3"
+  - image:
+    url: "/assets/images/projects/greenpineapple/overwatch-4.png"
+    alt: "Overwatch research-4"
+  - image:
+    url: "/assets/images/projects/greenpineapple/overwatch-5.png"
+    alt: "Overwatch research-5"
 ---
 <p>This project is about the communication between gender conflicts in game <Overwatch>. It was designed to prove the hypothesis regarding communication theory - Muted Group Theory. </p><br>Designed the survey and interview questionnaires, and executed EDA to figure which factors are influencing the conflicts. The factors were tier, total played time, total numbers of play, whether reacting aggressively or not when insulted.<br><br> This research was submitted to Korea Game Journal Award and honored to be included in its journal book, 2017.
