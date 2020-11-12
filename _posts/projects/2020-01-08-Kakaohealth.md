@@ -9,7 +9,7 @@ meta:
 project:
   title: "Kakao Health"
   type: "Product Development"
-  url: ""
+  url: "https://www.kakaocorp.com/?lang=en"
   logo: "/assets/images/projects/greenpineapple/kakaohealth-logo.JPG"
   tech: "Marketing business model, User experience, Product Development, Platform synergy"
 
