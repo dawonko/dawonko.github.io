@@ -22,12 +22,7 @@ images:
   - image:
     url: "/assets/images/projects/kf-details.png"
     alt: "Aqua Pineapple website on tablet, mobile and desktop"
-  - image:
-    url: "/assets/images/projects/aquapineapple/desktop.jpg"
-    alt: "Aqua Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/aquapineapple/mobile.jpg"
-    alt: "Aqua Pineapple website on a mobile device"
+
 ---
 <p>This service is O2O business model which connects local fisherman with city consumers, consumers get more fresh seafood lower cost. </p>
 <br>Market and target analysis was done by consumer FGI and seafood consumption data from Korea Ministry of Oceans and Fisheries. 
