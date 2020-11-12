@@ -10,18 +10,18 @@ project:
   title: "Healthy Walker"
   type: "Product Development"
   url: ""
-  logo: "/assets/images/projects/healthytracker-logo.png"
+  logo: "/assets/images/projects/greenpineapple/kakaohealth-logo.jpg"
   tech: ""
 
 agency:
-  title: "KAKAO"
-  url: "https://github.com/arnolds/pineapple"
+  title: "Idividual Project"
+  url: ""
   year: "2020"
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/greenpineapple/kakaohealth-logo.jpg"
+    alt: "kakaohealth 1"
   - image:
     url: "/assets/images/projects/redpineapple/desktop.jpg"
     alt: "Red Pineapple website on a desktop device"
