@@ -10,7 +10,7 @@ project:
   title: "Kakao Health"
   type: "Product Development"
   url: "https://www.kakaocorp.com/?lang=en"
-  logo: "/assets/images/projects/greenpineapple/kakaohealth-logo.JPG"
+  logo: "/assets/images/projects/greenpineapple/kakaohealth-logo.png"
   tech: "Marketing business model, User experience, Product Development, Platform synergy"
 
 agency:
@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/greenpineapple/Greenkakaohealth.png"
+    url: "/assets/images/projects/greenpineapple/kakaohealth-logo.png"
     alt: "kakaohealth 1"
 ---
 <p>It tracks how long you have walked, and manages your whole check-up schedules with a doctor. It could help people who lives in the area rarely have clinics and who is old but do not have anyone to take care of oneself near.</p>
