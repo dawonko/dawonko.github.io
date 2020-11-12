@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/greenpineapple/kakaohealth-logo.JPG"
+    url: "/assets/images/projects/greenpineapple/Greenkakaohealth.png"
     alt: "kakaohealth 1"
   - image:
     url: "/assets/images/projects/redpineapple/desktop.jpg"
