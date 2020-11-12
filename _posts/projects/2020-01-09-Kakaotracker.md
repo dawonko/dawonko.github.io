@@ -9,13 +9,13 @@ meta:
 project:
   title: "Kakao Tracker"
   type: "Product Development"
-  url: ""
+  url: "https://www.kakaocorp.com/?lang=en"
   logo: "/assets/images/projects/healthytracker-logo.png"
   tech: "Marketing business model, partnership, user experience, product development"
 
 COMPANY:
-  title: "Kakao"
-  url: "https://www.kakaocorp.com/?lang=en"
+  title: "Individual Project"
+  url: ""
   year: "2020"
 
 images:
