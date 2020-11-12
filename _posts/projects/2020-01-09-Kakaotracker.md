@@ -11,11 +11,11 @@ project:
   type: "Product Development"
   url: ""
   logo: "/assets/images/projects/healthytracker-logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "Marketing business model, partnership, user experience, product development"
 
 COMPANY:
   title: "Kakao"
-  url: ""
+  url: "https://www.kakaocorp.com/?lang=en"
   year: "2020"
 
 images:
