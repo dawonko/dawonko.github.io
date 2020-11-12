@@ -11,7 +11,7 @@ project:
   type: "Product Development"
   url: "https://www.kakaocorp.com/?lang=en"
   logo: "/assets/images/projects/kakaofish.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "Product Development, Product Marketing, User Experience, Platform Synergy"
 
 agency:
   title: "Kakao Hackathon - Team Project"
