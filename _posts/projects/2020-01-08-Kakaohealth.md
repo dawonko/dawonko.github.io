@@ -11,7 +11,7 @@ project:
   type: "Product Development"
   url: ""
   logo: "/assets/images/projects/greenpineapple/kakaohealth-logo.JPG"
-  tech: ""
+  tech: "Marketing business model, User experience, Product Development, Platform synergy"
 
 agency:
   title: "Idividual Project"
