@@ -7,7 +7,7 @@ meta:
   keywords: "Prouct Development, Kakao Health, Blockchain"
 
 project:
-  title: "Healthy Walker"
+  title: "Kakao Health"
   type: "Product Development"
   url: ""
   logo: "/assets/images/projects/greenpineapple/kakaohealth-logo.jpg"
