@@ -9,13 +9,13 @@ meta:
 project:
   title: "Kakao Fish"
   type: "Product Development"
-  url: ""
+  url: "https://www.kakaocorp.com/?lang=en"
   logo: "/assets/images/projects/kakaofish.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Kakao Hackathon"
-  url: "https://github.com/arnolds/pineapple"
+  title: "Kakao Hackathon - Team Project"
+  url: "https://www.kakaocorp.com/?lang=en"
   year: "2019"
 
 images:
