@@ -20,10 +20,10 @@ agency:
  
 images:
   - image:
-    url: "/assets/images/projects/aquapineapple/burgerking2kt.jpg"
+    url: "/assets/images/projects/aquapineapple/burgerking2kt.png"
     alt: "The Quattro Cheese"
   - image:
-    url: "/assets/images/projects/aquapineapple/burgerking3kt.jpg"
+    url: "/assets/images/projects/aquapineapple/burgerking3kt.png"
     alt: "Red Snow Crab Whopper"
   - image:
     url: "/assets/images/projects/aquapineapple/burgerking1kt.png"
