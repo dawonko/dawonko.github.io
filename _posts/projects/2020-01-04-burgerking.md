@@ -11,7 +11,7 @@ project:
   type: "Marketing Research"
   url: "https://www.bk.com/"
   logo: "/assets/images/projects/aquapineapple/Group 3bkrlogo.png"
-  tech: "Marketing Research, Quantitative & Qualitative Research, Project Management, Excel, Powerpoint"
+  tech: "Marketing Research, Quantitative & Qualitative Research, Project Management, Internal tools, Excel, Powerpoint"
 
 agency:
   title: "Kantar"
