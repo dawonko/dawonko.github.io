@@ -7,7 +7,7 @@ meta:
   keywords: "FMCG, Estee Lauder Companies, Beauty Product, Marketing Campaign"
 
 project:
-  title: "Estee Lauder Social Campaings"
+  title: "Estee Lauder Social Campaign"
   type: "Marketing Campaign"
   url: "https://www.elcompanies.com/en"
   logo: "/assets/images/projects/aquapineapple/Group 1newestee.png"
