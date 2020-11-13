@@ -4,41 +4,40 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "FMCG, Estee Lauder Group, Beauty, Marketing Campaign"
+  keywords: "Electronics, Himade, Himart, Marketing Campaign"
 
 project:
-  title: "Estee Lauder Companies"
+  title: "Himade, Electronics"
   type: "Marketing Campaign"
-  url: "https://www.elcompanies.com/en"
-  logo: "/assets/images/projects/aquapineapple/Group 1newestee.png"
-  tech: "Writing marketing trends report, launching campaigns, translation"
+  url: "https://www.lotteon.com/search/search/search.ecn?render=search&platform=pc&q=%ED%95%98%EC%9D%B4%EB%A9%94%EC%9D%B4%EB%93%9C&mallId=1e"
+  logo: "/assets/images/projects/himade-logo.JPG"
+  tech: "TVC  : 2 versions of storyboards for 15' 
+<br>Outdoor  :  Ad on Bus, Experience Zone at retail store  
+Digital  : Digital Signage, Facebook/Instagram Viral"
 
 agency:
-  title: "Ogilvy & Mather"
-  url: "https://www.ogilvy.com/"
-  year: "2019"
+  title: "Individual Project"
+  url: ""
+  year: "2018"
 
 images:
   - image:
-    url: "/assets/images/projects/aquapineapple/tf-4estee5.png"
-    alt: "YouTuber Risabae with Tom Ford Beauty"
+    url: "/assets/images/projects/himade.png"
+    alt: "Himade Campaign-1"
   - image:
-    url: "/assets/images/projects/aquapineapple/tf-2estee3.png
-    alt: "YouTuber Risabae and Model Jang Yoonju"
+    url: "/assets/images/projects/himade-2.png"
+    alt: "Himade Campaign-2"
   - image:
-    url: "/assets/images/projects/aquapineapple/tf-3estee4.png"
-    alt: "YouTuber Risabae at Tom Ford Beauty"
+    url: "/assets/images/projects/himade-3.png"
+    alt: "Himade Campaign-3"
   - image:
-    url: "/assets/images/projects/aquapineapple/dar-5estee7.png"
-    alt: "Darphin media tie-up with My Mad Beauty3"
+    url: "/assets/images/projects/himade-4.png"
+    alt: "Himade Campaign-4"
   - image:
-    url: "/assets/images/projects/aquapineapple/dar-4estee6.png"
-    alt: "Darphin media tie up with My Mad Beauty3-2"
+    url: "/assets/images/projects/himade-5.png"
+    alt: "Himade Campaign-5"
   - image:
-    url: "/assets/images/projects/aquapineapple/el-4estee2.png"
-    alt: "YouTuber Hazel with Estee Lauder"
-  - image:
-    url: "/assets/images/projects/aquapineapple/el-1estee1.png"
-    alt: "YouTuber Hazel went to Estee Lauder Milan Event"
+    url: "/assets/images/projects/himade-6.png"
+    alt: "Himade Campaign-6"
 ---
-<p>As an Account Executive Intern, my role was mainly help to launch new campaigns and writing a report about competitor brands' marketing activities including descriptions of newly launched products, digital marketing. social buzzword, and ATL/BTL activities. </p><br>For Tom Ford Beauty, Darphin, Estee Lauder, I listed influencers that matches with the target market and who could bring higher engagement with them. This social campaigns were made through not only YouTube, but media tie-up with <My Mad Beauty 3> and instagram paid ads of other magazines(Vogue, MarieClaire, W Korea, etc) and other influencers. Later I suggested other campaign strategies based on the knowledge I learned from this project, as I am a fast-learner. <br><br> Risabae X Tom Ford Beauty<br>[YouTube [Click]](https://www.youtube.com/watch?v=tvgdRGGlKuo&t=250s) <br><br> Darphin X My Mad Beauty 3<br> [YouTube [Click]](https://www.youtube.com/watch?v=qZpW4Xce9eo) <br><br> Hazel X Estee Lauder<br> [YouTube [Click]](https://www.youtube.com/watch?v=gPkPAMdlx20&t=189s)
+<p>Defined that the problems are consumers' existing negative perception of the PB Brand and the strictness to the choice of electronics because they don't really trust novice, especially for the electronics, tending to believe the bigger and well-known company.</p><br>Focused on the characteristic brand has common with consumers. Planning IMC, knowledge about retail marketing in display and digital marketing through Instagram were gained. <br><br>Recognition – Experience – Spreading 
