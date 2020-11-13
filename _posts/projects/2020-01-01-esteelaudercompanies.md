@@ -11,7 +11,7 @@ project:
   type: "Marketing Campaign"
   url: "https://www.elcompanies.com/en"
   logo: "/assets/images/projects/aquapineapple/Group 1newestee.png"
-  tech: "Writing marketing trends report, launching campaigns, translation"
+  tech: "Writing marketing trends report, launching campaigns, Instagram Ad, Facebook Ad, Magazine, Media Tie-up, translation"
 
 agency:
   title: "Ogilvy & Mather"
