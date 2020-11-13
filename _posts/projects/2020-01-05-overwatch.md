@@ -10,7 +10,7 @@ project:
   title: "Overwatch"
   type: "User Research"
   url: "https://playoverwatch.com/"
-  logo: "/assets/images/projects/overwatch-logo.jpg"
+  logo: "/assets/images/projects/aquapineapple/Group 2overwatchlogo.png"
   tech: "Quantitative Research(Survey), Qualitative Research(Interview), Literature Review, Article Review"
 
 agency:
